@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwin Chauhan</h1>
-<h3 align="center">A passionate full stack developer with 5 Years of Experience</h3>
+<h3 align="center">A passionate full stack developer with 7 Years of Experience</h3>
 
 - ⚡ Visit my portfolio **https://intchauhan.github.io/**
 - ⚡ Visit my portfolio **https://intchauhan.github.io/**
